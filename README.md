@@ -66,7 +66,7 @@ All 24 tests pass:
 
 Original COBOL source: [etalab/taxe_fonciere on GitLab](https://gitlab.adullact.net/dgfip/taxe_fonciere) (also [GitHub mirror](https://github.com/etalab/taxe-fonciere), frozen at 2018).
 
-Translation produced using the M7 methodology as part of the [CobolD](https://github.com/DukeDeSouth) project — verified COBOL-to-Python migration.
+Translation produced as part of the [CobolD](https://github.com/DukeDeSouth) project — systematic verified COBOL-to-Python migration.
 
 ## License
 
